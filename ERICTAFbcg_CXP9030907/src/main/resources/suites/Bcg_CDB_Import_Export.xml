@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BCG CDB Import Export" verbose="10">
+	<test name="BCG CDB Import Export">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.BCGImport_FunctionalTest" /> 
+			<class name="com.ericsson.bcgcdb.test.cases.BCGExport_FunctionalTest" />   
+		</classes>
+	</test>
+</suite>
+
+
+
+
+

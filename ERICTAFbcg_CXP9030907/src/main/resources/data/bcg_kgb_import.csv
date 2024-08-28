@@ -1,0 +1,8 @@
+TestID,ImportMo,ImportNodeFDN,ImportNodeType,ImportFileName,NumberOfMos,PlanName,PED_autoLockUnlock,modifier,VerifyMo,Scheme,ReConfiguration,CountDown,Expected
+"KGB-Import-5",UtranRelation,"SubNetwork,SubNetwork,MeContext",,Import_UtranRelation102.xml,2,kgbUtranRelationPlan102,,delete,,plan,,,Import has succeeded
+"KGB-Import-13",RoutingArea,,,routingarea.xml,1,kgbRoutingarea,,create,,plan,,,"Import has succeeded"
+"KGB-Import-7",GeranCellRelation,"SubNetwork,SubNetwork,MeContext",,GeranCellRelation102.xml,2,kgbGeranCellRelation102,,delete,,networkelement,,,Import has succeeded
+"KGB-Import-12",ServiceArea,,,servicearea.xml,1,kgbservicearea,,create,,plan,,,"Import has succeeded"
+"KGB-Import-10",Fach,"SubNetwork,SubNetwork,MeContext",,Fach.xml,2,kgbFach102,,delete,,system,,,Import has succeeded
+"KGB-Import-11",GsmRelation,"SubNetwork,SubNetwork,MeContext",,GsmRelation102.xml,2,kgbgsmrelation,,delete,,networkelement,,,Import has succeeded
+

@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bulkCmConfigDataFile xmlns="configData.xsd" xmlns:es="EricssonSpecificAttributes.14.02.xsd" xmlns:gn="geranNrm.xsd" xmlns:un="utranNrm.xsd" xmlns:xn="genericNrm.xsd">
+    <fileHeader fileFormatVersion="32.615 V4.5" vendorName="Ericsson"/>
+    <configData>
+        <xn:SubNetwork id="ONRM_ROOT_MO_R">
+            <xn:SubNetwork id="RNC05">
+                <xn:MeContext id="RNC05">
+                    <xn:ManagedElement id="1">
+                        <un:RncFunction id="1">
+                            <un:UtranCell id="RNC05-1-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-10-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-10-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-10-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-11-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-11-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-11-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-12-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-12-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-12-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-13-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-13-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-13-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-14-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-14-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-14-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-15-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-15-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="4" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-15-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-16-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-16-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-16-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-17-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-17-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-17-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-18-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-18-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-18-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-19-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-19-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-19-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-2-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-20-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-20-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-20-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-21-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-21-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-21-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-22-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-22-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-22-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-23-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-23-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-23-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-24-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-24-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-24-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-25-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-25-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-25-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-26-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-26-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-26-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-27-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-27-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-27-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-28-1">
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-28-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-28-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-29-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-29-2">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-29-3">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-3-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-30-1">
+                                <un:UtranRelation id="47" modifier="delete"/>
+                                <un:UtranRelation id="46" modifier="delete"/>
+                                <un:UtranRelation id="45" modifier="delete"/>
+                                <un:UtranRelation id="44" modifier="delete"/>
+                                <un:UtranRelation id="43" modifier="delete"/>
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                            <un:UtranCell id="RNC05-30-2">
+                                <un:UtranRelation id="42" modifier="delete"/>
+                                <un:UtranRelation id="41" modifier="delete"/>
+                                <un:UtranRelation id="40" modifier="delete"/>
+                                <un:UtranRelation id="39" modifier="delete"/>
+                                <un:UtranRelation id="38" modifier="delete"/>
+                                <un:UtranRelation id="37" modifier="delete"/>
+                                <un:UtranRelation id="36" modifier="delete"/>
+                                <un:UtranRelation id="35" modifier="delete"/>
+                                <un:UtranRelation id="34" modifier="delete"/>
+                                <un:UtranRelation id="33" modifier="delete"/>
+                                <un:UtranRelation id="32" modifier="delete"/>
+                            </un:UtranCell>
+                        </un:RncFunction>
+                    </xn:ManagedElement>
+                </xn:MeContext>
+            </xn:SubNetwork>
+        </xn:SubNetwork>
+        <xn:SubNetwork id="ONRM_ROOT_MO_R">
+            <xn:SubNetwork id="RNC05">
+                <xn:MeContext id="RNC05">
+                    <xn:ManagedElement id="1">
+                        <un:RncFunction id="1"/>
+                    </xn:ManagedElement>
+                </xn:MeContext>
+            </xn:SubNetwork>
+        </xn:SubNetwork>
+    </configData>
+    <fileFooter dateTime="2014-07-01T10:38:32Z"/>
+</bulkCmConfigDataFile>

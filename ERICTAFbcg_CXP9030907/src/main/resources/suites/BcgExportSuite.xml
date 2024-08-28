@@ -1,0 +1,8 @@
+<suite name="BcgExportSuite" verbose="10">
+	<!-- This is a comment in the suite.xml file -->
+	<test name="BcgExportSuite">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.BcgKgbExport" />
+		</classes>
+	</test>
+</suite>

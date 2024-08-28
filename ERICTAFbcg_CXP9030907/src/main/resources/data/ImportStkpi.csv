@@ -1,0 +1,3 @@
+ImportMo,ImportType,ImportFileName,PlanName,modifier,BaseLineMoRate,TotalMOs,Iterations,VarianceAllowed
+UtranRelation,Inter,Delete_1000_Inter_UtranRelation_CDB.xml,deleteInter,delete,40.43,1000,30,5
+UtranRelation,Intra,Delete_1000_Intra_UtranRelation_CDB.xml,deleteIntra,delete,53.47,1000,30,5

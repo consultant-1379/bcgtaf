@@ -1,0 +1,11 @@
+TestID,ImportMo,ImportNodeFDN,ImportNodeType,ImportFileName,NumberOfMos,PlanName,PED_autoLockUnlock,modifier,id,VerifyMo,Expected
+"CDB-Import-1",NbapCommon,"SubNetwork,SubNetwork,MeContext",,CDBNbapCommon.xml,10,CDBNbapCommon,,delete,,,Import has succeeded
+"CDB-Import-3",Fach,"SubNetwork,SubNetwork,MeContext",,CDBFach.xml,2,CDBFach,,delete,,,Import has succeeded
+"CDB-Import-4",LocationArea,"SubNetwork,SubNetwork,MeContext",,CDBLocationArea.xml,2,CDBLocationArea,,create,,,Import has succeeded
+"CDB-Import-5",RoutingArea,"SubNetwork,SubNetwork,MeContext",,CDBRoutingArea.xml,2,CDBRoutingArea,,create,,,Import has succeeded
+"CDB-Import-6",ServiceArea,"SubNetwork,SubNetwork,MeContext",,CDBServiceArea.xml,2,CDBServiceArea,,create,,,Import has succeeded
+"CDB-Import-7",Aal2Ap,"SubNetwork,MeContext",,CDBAal2Ap.xml,10,CDBAal2Ap,,create,78,,Import has succeeded
+"CDB-Import-8",UtranRelation,"SubNetwork,SubNetwork,MeContext",,CDBImport_UtranRelation.xml,2,CDBUtranRelationPlan,,delete,,,Import has succeeded
+"CDB-Import-9",UtranCell,"SubNetwork,SubNetwork,MeContext",,CDBImport_UtranCell.xml,2,CDBUtranCellPlan,,delete,,,Import has succeeded
+"CDB-Import-10",ExternalUtranCell,"SubNetwork,SubNetwork,MeContext",,CDBExternalUtranCell.xml,2,CDBExternalUtranCell,,delete,,,Import has succeeded
+"CDB-Import-11",GeranCellRelation,"SubNetwork,SubNetwork,MeContext",,CDBGeranCellRelation.xml,2,CDBGeranCellRelation,,delete,,,Import has succeeded

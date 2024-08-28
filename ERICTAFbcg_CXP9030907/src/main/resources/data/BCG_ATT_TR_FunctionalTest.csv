@@ -1,0 +1,12 @@
+TestID,MOName,Nodename,NodeType,NodeFDN,FileName,Domain,VerifyTestCase,ImportTime,MimRate,VarianceAllowed,Compression,TimeValue,DateValue,NumberOfMos,PlanName,PED_autoLockUnlock,AdminState,Modifier,UpdateFields,Expected
+ATT Test Case-HR73036,,RNC,1,"SubNetwork,MeContext",oss59284_testcase_1.xml,b,uraList,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HS76459,,SubNetwork,1,,oss59284_testcase_2.xml,t,PersistenceManager,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HR46348,Aal2PathVccTp,,1,,oss59284_testcase_6.xml,,administrativeState,,,,,,,1,ATTAal2PathVccTp,TRUE,1,update,es:timerCu,Import has succeeded
+ATT Test Case-HS66744,,SubNetwork,1,,oss59284_testcase_8.xml,t,temp,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HR73036,,RNC,1,"SubNetwork,MeContext",oss59284_testcase_3.xml,b,uraList,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HR73036,,RNC,1,"SubNetwork,MeContext",oss59284_testcase_1_next.xml,b,uraList,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HS76459,,SubNetwork,1,,oss59284_testcase_4.xml,t,PersistenceManager,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HR46348,Aal2PathVccTp,,1,,oss59284_testcase_7.xml,,administrativeState,,,,,,,1,ATTAal2PathVccTp,TRUE,1,update,es:timerCu,Import has succeeded
+ATT Test Case-HS66744,,SubNetwork,1,,oss59284_testcase_9.xml,t,temp,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HR73036,,RNC,1,"SubNetwork,MeContext",oss59284_testcase_10.xml,b,uraList,,,,,,,,,,,,,Export has succeeded
+ATT Test Case-HS76459,,SubNetwork,1,,oss59284_testcase_12.xml,t,PersistenceManager,,,,,,,,,,,,,Export has succeeded

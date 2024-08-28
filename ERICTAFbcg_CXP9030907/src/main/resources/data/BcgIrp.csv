@@ -1,0 +1,3 @@
+TestId,subnetworkAction,fileName,ipAddress,bulkUserName,bulkPass,schedule,rantype,rootmo,fileTransfer
+"IRPTest-1",addsubnetworkmgr,SNM_WCDMA_ONLINE,192.168.0.12,nmsadm,nms27511,IMMEDIATE,WCDMA,ONRM_ROOT_MO_R,FTP
+"IRPTest-2",addsubnetworkmgr,SNM_LTE_ONLINE,192.168.0.12,nmsadm,nms27511,IMMEDIATE,LTE,ONRM_ROOT_MO_R,FTP

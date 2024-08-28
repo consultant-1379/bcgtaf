@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="importStkpiRelationCreation">
+	<test name="importStkpiRelationCreation">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.importStkpiRelationCreation" />
+		</classes>
+	</test>
+</suite>

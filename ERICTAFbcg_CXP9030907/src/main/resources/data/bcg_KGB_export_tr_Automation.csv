@@ -1,0 +1,11 @@
+TestID,exportNodename,exportNodeType,exportNodeFdn,numberOfFdns,exportFileName,domain,verifyMo,Compression,PED_autoLockUnlock,TimeValue,DateValue,Expected
+"KGB-Export-TR03",ERBS,4,"SubNetwork,SubNetwork,MeContext",1,AdvanceFilterHQ75646.xml,BCR.xml,,,,,,"Export succeeded"
+"KGB-Export-TR04",RNC,2,"SubNetwork,SubNetwork,MeContext",1,exportHR31040.xml,b,,,,,,"Export succeeded"
+"KGB-Export-TR05",RNCRBS,2,"SubNetwork,SubNetwork,MeContext",1,exportHR33809.xml,b,,,,,,"Export succeeded"
+"KGB-Export-TR06",SubNetwork,1,,1,customeFilterExportHR33699.xml,BCR_EUtranCellNetwork.xml,vsDataUtranCell,,,,,"Export succeeded"
+"KGB-Export-TR08",WCG,30,"SubNetwork,SubNetwork,MeContext",1,MultipleMOCWCGNodeHS71685.xml,":vsDataVideo,Voice",,,,,,"Export succeeded"
+"KGB-Export-TR09",SubNetwork,1,,1,externalgsmCellMoExportHS814753.xml,:vsDataExternalGsmCell,ExternalGsmCell,,,,,"Export succeeded"
+"KGB-Export-TR10",TCU,46,"SubNetwork,SubNetwork,MeContext",1,TCUExportHS70908.xml,BCT.xml,,,,,,"Export succeeded"
+"KGB-Export-TR11",RNCPRBS,26,"SubNetwork,SubNetwork,MeContext",1,RNCPRBSPmExportHR75238.xml,:vsDataPm,,,,,,"Export succeeded"
+"KGB-Export-TR12",STN,15,"SubNetwork,SubNetwork,MeContext",1,STNNodeExportHQ72472.xml,b,vsDataSTN,,,,,"Export succeeded"
+"KGB-Export-TR13",RNCRBS,2,"SubNetwork,SubNetwork,MeContext",1,nextexportHR33809.xml,b,,,,,,"Export succeeded"

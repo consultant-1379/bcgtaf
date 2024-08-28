@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="kgb_Export_wran_lte" verbose="10">
+	<test name="kgb_Export_wran_lte">
+		<classes>
+		 	<class name="com.ericsson.bcgcdb.test.cases.BcgKgbExport_wran_lte" />   
+		</classes>
+	</test>
+</suite>

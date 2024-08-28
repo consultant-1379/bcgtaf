@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter xmlns="BulkCmExportFilter.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        
+		<node type="RBS">
+			<mo name="SubNetwork">
+				<mo name="SubNetwork">
+					<mo name="MeContext">
+						<attribute showAll="true" />
+							<mo name="ManagedElement">
+								<attribute showAll="true" />
+									<mo name="NodeBFunction">
+										<attribute showAll="true" />
+											<mo name="RbsLocalCell">
+												<attribute showAll="true" />
+											</mo>
+									</mo>
+									<mo name="Equipment">
+										<attribute showAll="true" />
+											<mo name="Subrack">
+												<attribute showAll="true" />
+													<mo name="Slot">
+														<attribute showAll="true" />
+													</mo>
+											</mo>
+									</mo>
+							</mo>
+					</mo>
+				</mo>
+			</mo>
+		</node>
+		<node type="RNC">
+			<mo name="SubNetwork">
+				<mo name="SubNetwork">
+					<mo name="MeContext">
+						<attribute showAll="true" />
+							<mo name="ManagedElement">
+								<attribute showAll="true" />
+									<mo name="RncFunction">
+										<attribute showAll="true" />
+											<mo name="UtranCell">
+												<attribute showAll="true" />
+											</mo>
+									</mo>
+							</mo>
+					</mo>
+				</mo>
+			</mo>
+		</node>					
+</filter>											

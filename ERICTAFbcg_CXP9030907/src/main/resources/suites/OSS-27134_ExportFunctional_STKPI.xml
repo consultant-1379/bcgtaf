@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Export ST CDB">
+	<test name="Export ST CDB">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.BCGExport_STKPI_FunctionalTest" />
+		</classes>
+	</test>
+</suite>
+
+
+
+
+

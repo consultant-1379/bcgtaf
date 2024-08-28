@@ -1,0 +1,8 @@
+<suite name="BcgIRP" verbose="10">
+	<!-- This is a comment in the suite.xml file -->
+	<test name="BcgIrp">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.BcgIrp_Test" />
+		</classes>
+	</test>
+</suite>

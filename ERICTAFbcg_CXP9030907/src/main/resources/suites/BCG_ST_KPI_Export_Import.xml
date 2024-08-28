@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BCG_ST_KPI_Export_Import" verbose="10">
+	<test name="BCG ST KPI-Export and Import">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.BCGExport_STKPI_FunctionalTest" />
+			<class name="com.ericsson.bcgcdb.test.cases.ImportStkpi" />
+			<class name="com.ericsson.bcgcdb.test.cases.importStkpiRelationCreation" />
+		</classes>
+	</test>
+</suite>
+

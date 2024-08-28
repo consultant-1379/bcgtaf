@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="OSS-32698_Functional" verbose="10">
+	<test name="OSS-32698_Functional">
+		<classes>
+		 	<class name="com.ericsson.bcgcdb.test.cases.BCG_ATT_TR_FunctionalTest" />
+		</classes>
+	</test>
+</suite>

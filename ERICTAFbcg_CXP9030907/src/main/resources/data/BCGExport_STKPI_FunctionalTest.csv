@@ -1,0 +1,6 @@
+TestID,Desc,ExportNodeFdn,NodeType,Value,Filename,Domain,Mimrate,Compression,Expected,VarianceAllowed,Iteration
+"ST-CDB-Export-1","WRAN Network Export","Subnetwork,Subnetwork,MeContext",RNC,1,Wran_network_CSJarBaseline.xml,WCDMA_Filter.xml,7431.00,,true,5,5
+"ST-CDB-Export-2","LTE Network Export","Subnetwork,Subnetwork,MeContext",ERBS,"4,32,42",ERBS_network_Both.xml,b,8715.60,,true,5,5
+"ST-CDB-Export-3","BCG Export all SGSN","Subnetwork,Subnetwork,MeContext",SGSN,"27,12",SGSN_network_both.xml,b,9179.00,,true,5,10
+"ST-CDB-Export-4","BCG Export SIU","Subnetwork,Subnetwork,MeContext",SIU,15,SIU_network_Both.xml,b,9253.90,,true,5,5
+

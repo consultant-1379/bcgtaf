@@ -1,0 +1,13 @@
+TestID,exportNodename,exportNodeType,exportNodeFdn,exportFileName,domain,verifyMo,Compression,TimeValue,DateValue,Expected
+"CDB-Export-1",RNC,1,"SubNetwork,SubNetwork,MeContext",CDBBothRNCexport.xml,b,UtranCell,,,,"Export succeeded"
+"CDB-Export-2",RBS,2,"SubNetwork,SubNetwork,MeContext",CDBVerifyMo_RBS.xml,:vsdataRbsLocalCell,RbsLocalCell,,,,"Export succeeded"
+"CDB-Export-3",ERBS,4,"SubNetwork,SubNetwork,MeContext",CDBRimCapable.xml,b,,,,,"Export succeeded"
+"CDB-Export-4",ERBS,4,"SubNetwork,SubNetwork,MeContext",CDBRadioERBS.xml,r,,,,,"Export succeeded"
+"CDB-Export-5",ERBS,4,"SubNetwork,SubNetwork,MeContext",CDBTimeERBS.xml,b,,,"-hr 1",,"Export succeeded"
+"CDB-Export-7",ERBS,4,"SubNetwork,SubNetwork,MeContext",CDBTransERBS.xml,t,,,,,"Export succeeded"
+"CDB-Export-8",ERBS,4,"SubNetwork,SubNetwork,MeContext",CDBadvancedERBS.xml,BCT.xml,,,,,"Export succeeded"
+"CDB-Export-9",ERBS,4,"SubNetwork,SubNetwork,MeContext",CDBmocERBS.xml,:vsdataENodeBFunction,,,,,"Export succeeded"
+"CDB-Export-10",MGW,7,"SubNetwork,SubNetwork,MeContext",CDBverifyMGW.xml,b,,,,,"Export succeeded"
+"CDB-Export-11",MGW,7,"SubNetwork,SubNetwork,MeContext",CDBtimeMGW.xml,b,,,"-hr 1",,"Export succeeded"
+"CDB-Export-12",MGW,7,"SubNetwork,SubNetwork,MeContext",CDBfilterMGW.xml,BCT.xml,,,,,"Export succeeded"
+"CDB-Export-13",MGW,7,"SubNetwork,SubNetwork,MeContext",CDBfiltermg.xml,BCR.xml,,,,,"Export succeeded"

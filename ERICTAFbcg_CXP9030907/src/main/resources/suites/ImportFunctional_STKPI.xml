@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ImportFunctional_STKPI" verbose="10">
+	<test name="Import_Functional_STKPI">
+		<classes>
+			
+			<class name="com.ericsson.bcgcdb.test.cases.BCGImport_STKPI_FunctionalTest" />
+		</classes>
+	</test>
+</suite>
+
+
+
+
+

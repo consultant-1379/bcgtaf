@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BCG All Test Cases" verbose="10">
+	<test name="BCG All Test Case">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.PreTestSuite" /> 
+			<class name="com.ericsson.bcgcdb.test.cases.BcgKgbExport" />
+			<class name="com.ericsson.bcgcdb.test.cases.BcgKgbdg2Import" />
+			<class name="com.ericsson.bcgcdb.test.cases.BcgKgbExportTRAutomation" /> 
+			<class name="com.ericsson.bcgcdb.test.cases.BCGExport_FunctionalTest" /> 
+			<class name="com.ericsson.bcgcdb.test.cases.BCGImport_FunctionalTest" />
+			<class name="com.ericsson.bcgcdb.test.cases.F_BcgKgbImport" />   
+		 	<class name="com.ericsson.bcgcdb.test.cases.BcgKgbImport" />   
+		 	<class name="com.ericsson.bcgcdb.test.cases.S_BCGImport_FunctionalTest" />         
+			<class name="com.ericsson.bcgcdb.test.cases.BCG_ATT_TR_FunctionalTest" />	
+		    <class name="com.ericsson.bcgcdb.test.cases.BcgKgbdg2Import" />
+		    <class name="com.ericsson.bcgcdb.test.cases.OfflineSimulation" />
+		</classes>
+	</test>
+</suite>

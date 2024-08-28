@@ -1,0 +1,15 @@
+ImportMo,ImportNodeFDN,ImportNodeType,ImportFileName,NumberOfMos,PlanName,PED_autoLockUnlock,modifier,VerifyMo,updateFields,mimName,Expected
+IpSystem,1,,nextIpSystem_original.xml,1,IpSystem,,update,,es:userLabel=IpSystem1,,Import has succeeded
+AnrFunction,1,,AnrFunction.xml,1,AnrFunction,,update,,es:removeNcellTime=10,,Import has succeeded
+Sector,1,,Sector_original.xml,1,Sector,,update,,es:userLabel=50,,Import has succeeded
+GeneralProcessorUnit,1,,GeneralProcessorUnit_original.xml,1,GeneralProcessorUnit,,update,,es:userLabel=GPU1,,Import has succeeded
+GeneralProcessorUnit,1,,nextGeneralProcessorUnit_original.xml,1,GPU,,delete,,,,Import has succeeded
+AnrFunction,1,,nextAnrFunction.xml,1,AnrFunction,,update,,es:removeNcellTime=10,,Import has succeeded
+Sector,1,,nextSector_original.xml,1,Sector,,update,,es:userLabel=50,,Import has succeeded
+AnrFunction,1,,nextAnrFunction1.xml,1,AnrFunction,,update,,es:removeNcellTime=10,,Import has succeeded
+AnrFunction,1,,nextAnrFunction2.xml,1,AnrFunction,,update,,es:removeNcellTime=10,,Import has succeeded
+Sector,1,,nextSector_original1.xml,1,Sector,,update,,es:userLabel=50,,Import has succeeded
+Sector,1,,nextSector_original2.xml,1,Sector,,update,,es:userLabel=50,,Import has succeeded
+Sector,1,,Sector_original1.xml,1,Sector,,update,,es:userLabel=50,,Import has succeeded
+Sector,1,,Sector_original2.xml,1,Sector,,update,,es:userLabel=50,,Import has succeeded
+Sector,1,,Sector_original3.xml,1,Sector,,update,,es:userLabel=50,,Import has succeeded

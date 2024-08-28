@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ImportStkpi">
+	<test name="ImportStkpi">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.ImportStkpi" />
+		</classes>
+	</test>
+</suite>
+
+
+
+
+

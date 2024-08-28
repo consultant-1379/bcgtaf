@@ -1,0 +1,5 @@
+TestID,exportNodename,exportNodeType,exportNodeFdn,numberOfFdns,exportFileName,domain,verifyMo,Compression,PED_autoLockUnlock,TimeValue,DateValue,Expected
+"KGB-Export-58",SubNetwork,1,,1,FullBoth.xml,b,,,,,,"Export succeeded"
+
+
+

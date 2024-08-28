@@ -1,0 +1,5 @@
+TestID,Desc,ImportMo,ImportType,ImportFileName,PlanName,modifier,MimRate,Mos,Expected,varianceAllowed
+"ST-CDB_Import_1","WRAN Import Intra delete",UtranRelation,Intra,Delete_1000_Intra_UtranRelation_CDB.xml,deleteIntra,delete,53.47,1000,Import has succeeded,10
+"ST-CDB_Import_2","WRAN Import Intra create",UtranRelation,Intra,Create_1000_Intra_UtranRelation_CDB.xml,createIntra,create,36.74,1000,Import has succeeded,10
+"ST-CDB_Import_3","WRAN Import Inter delete",UtranRelation,Inter,Delete_1000_Inter_UtranRelation_CDB.xml,deleteInter,delete,40.43,1000,Import has succeeded,10
+"ST-CDB_Import_4","WRAN Import Inter create",UtranRelation,Inter,Create_1000_Inter_UtranRelation_CDB.xml,createInter,create,24.24,1000,Import has succeeded,10

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="F_kgb_Import" verbose="10">
+	<test name="F_kgb_Import">
+		<classes>
+		 	<class name="com.ericsson.bcgcdb.test.cases.F_BcgKgbImport" />   
+		</classes>
+	</test>
+</suite>

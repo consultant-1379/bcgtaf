@@ -1,0 +1,6 @@
+ImportMo,ImportNodeFDN,ImportNodeType,ImportFileName,NumberOfMos,PlanName,PED_autoLockUnlock,modifier,VerifyMo,updateFields,mimName,Expected
+ExternalGsmPlmn,1,,ExternalGsmPlmn_original.xml,1,ExternalGsmPlmn,,update,,es:userLabel=GsmPLMN1,,Import has succeeded
+Schema,1,,Schema_original.xml,1,Schema,,update,,,ECIM_SysM,Import has succeeded
+SwM,1,,SwM_original.xml,1,SwM,,update,,,ECIM_SwM,Import has succeeded
+IpSystem,1,,nextIpSystem_original.xml,1,IpSystem,,update,,es:userLabel=IpSystem1,,Import has succeeded
+

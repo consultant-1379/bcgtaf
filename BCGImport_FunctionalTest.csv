@@ -1,0 +1,3 @@
+ImportMo,ImportNodeFDN,ImportNodeType,ImportFileName,NumberOfMos,PlanName,PED_autoLockUnlock,modifier,VerifyMo,Expected
+UtranRelation,"SubNetwork,SubNetwork,MeContext",,Import_UtranRelation150.xml,,UtranRelationPlan150,,delete,,Import has succeeded
+UtranCell,"SubNetwork,SubNetwork,MeContext",,Import_UtranCell150.xml,,UtranCellPlan150,,delete,,Import has succeeded

@@ -1,0 +1,7 @@
+TestID,exportNodename,ImportMo,modifier,numberofmos,PlanName,id,exportNodeType,exportNodeFdn,numberOfFdns,exportFileName,Importfilename,domain,verifyMo,Compression,PED_autoLockUnlock,timeValue,dateValue,Expected
+"KGB-Import-1",DG2,Rcs,update,2,Rcs,1,45,"SubNetwork,SubNetwork,MeContext",1,Rcs.xml,Rcs.xml,:vsdataRcs,,,,,,"Export succeeded"
+"KGB-Import-2",DG2,Paging,update,2,Paging,1,45,"SubNetwork,SubNetwork,MeContext",1,Paging.xml,Paging.xml,:vsdataPaging,,,,,,"Export succeeded"
+"KGB-Import-3",DG2,CellSleepFunction,update,2,CellSleepFunction,1,45,"SubNetwork,SubNetwork,MeContext",1,CellSleepFunction.xml,CellSleepFunction.xml,:vsdataCellSleepFunction,,,,,,"Export succeeded"
+"KGB-Import-4",TCU,Router,update,2,Router,1,46,"SubNetwork,SubNetwork,MeContext",1,Router.xml,Router.xml,:vsdataRouter,,,,,,"Export succeeded"
+"KGB-Import-5",TCU,Ptp,update,2,Ptp,1,46,"SubNetwork,SubNetwork,MeContext",1,Ptp.xml,Ptp.xml,:vsdataPtp,,,,,,"Export succeeded"
+"KGB-Import-6",pERBS,Rcs,update,2,Rcs,1,32,"SubNetwork,SubNetwork,MeContext",1,Rcs.xml,Rcs.xml,:vsdataRcs,,,,,,"Export succeeded"

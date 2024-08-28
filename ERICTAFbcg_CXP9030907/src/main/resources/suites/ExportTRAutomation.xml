@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Export TR Automation" verbose="10">
+	<test name="Export TR Automation">
+		<classes>
+		 	<class name="com.ericsson.bcgcdb.test.cases.BcgKgbExportTRAutomation" />	 
+		</classes>
+	</test>
+</suite>
+
+
+
+
+

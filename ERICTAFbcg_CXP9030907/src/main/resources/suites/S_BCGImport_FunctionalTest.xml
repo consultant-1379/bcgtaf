@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="S_OSS-27134_Functional" verbose="10">
+	<test name="S_OSS-27134_Functional">
+		<classes>
+		 	<class name="com.ericsson.bcgcdb.test.cases.S_BCGImport_FunctionalTest" />        
+		</classes>
+	</test>
+</suite>

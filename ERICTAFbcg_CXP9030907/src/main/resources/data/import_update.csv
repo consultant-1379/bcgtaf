@@ -1,0 +1,13 @@
+ImportMo,ImportNodeFDN,ImportNodeType,ImportFileName,NumberOfMos,PlanName,PED_autoLockUnlock,adminState,modifier,VerifyMo,Expected
+Aal2Ap,"SubNetwork,MeContext",,Aal2Ap_delete_1.xml,1,Aal2Ap_1,true,,delete,,"Import has succeeded"
+Aal2PathVccTp,"SubNetwork,MeContext",,Aal2PathVccTp_LBM_update_1.xml,1,Aal2PathVccTpLBM_1,true,1,update,,"Import has succeeded"
+Aal2PathVccTp,"SubNetwork,MeContext",,Aal2PathVccTp_LBD_update_2.xml,1,Aal2PathVccTpLBM_2,true,0,update,,"Import has succeeded"
+Aal2Ap,"SubNetwork,MeContext",,Aal2Ap_update_1.xml,1,Aal2Ap_3,true,,update,,"Import has succeeded"
+Aal2PathVccTp,"SubNetwork,MeContext",,Aal2PathVccTp_LBD_delete_1.xml,1,Aal2PathVccTpLBD_1,true,1,delete,,"Import has succeeded"
+Aal2PathVccTp,"SubNetwork,MeContext",,Aal2PathVccTp_LBD_delete_2.xml,1,Aal2PathVccTpLBD_2,true,1,delete,,"Import has succeeded"
+Aal2Ap,"SubNetwork,MeContext",,Aal2Ap_delete_2.xml,1,Aal2Ap_2,true,,delete,,"Import has succeeded"
+Aal2PathVccTp,"SubNetwork,MeContext",,Aal2PathVccTp_LBD_delete_3.xml,1,Aal2PathVccTpLBD_3,true,0,delete,,"Import has succeeded"
+Aal2PathVccTp,"SubNetwork,MeContext",,Aal2PathVccTp_LBD_delete_4.xml,1,Aal2PathVccTpLBD_4,true,0,delete,,"Import has succeeded"
+
+
+

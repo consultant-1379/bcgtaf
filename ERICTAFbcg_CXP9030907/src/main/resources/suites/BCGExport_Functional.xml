@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BCGExport_Functional" verbose="10">
+	<test name="BCGExport_Functional">
+		<classes>
+			<class name="com.ericsson.bcgcdb.test.cases.BCGExport_FunctionalTest" />  
+			
+		</classes>
+	</test>
+</suite>

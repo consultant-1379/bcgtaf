@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter xmlns="BulkCmExportFilter.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <node type="SUBNETWORK">
+    <mo name="SubNetwork">
+      <attribute showAll="true" />
+      <mo name="SubNetwork">
+        <attribute showAll="true" />
+        <mo name="SubNetwork">
+          <attribute showAll="true" />
+          <mo name="PoolArea">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalCdma2000Plmn">
+            <attribute showAll="true" />
+            <mo name="ExternalCdma2000Cell">
+              <attribute showAll="true" />
+            </mo>
+          </mo>
+          <mo name="ExternalUtranFreq">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="TnApplication">
+            <attribute showAll="true" />
+            <mo name="VirtualPath">
+              <attribute showAll="true" />
+            </mo>
+          </mo>
+          <mo name="Site">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalCdma2000FreqBand">
+            <attribute showAll="true" />
+            <mo name="ExternalCdma2000Freq">
+              <attribute showAll="true" />
+            </mo>
+          </mo>
+          <mo name="ExternalUtranPlmn">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="FreqManagement">
+            <attribute showAll="true" />
+            <mo name="ExternalUtranFreq">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="ExternalEutranFrequency">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="ExternalCdma2000FreqBand">
+              <attribute showAll="true" />
+              <mo name="ExternalCdma2000Freq">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="ExternalGsmFreq">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="ExternalGsmFreqGroup">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="EUtranFrequency">
+              <attribute showAll="true" />
+            </mo>
+          </mo>
+          <mo name="MscPool">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalUtranCellTDD">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalTdUtranCell">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="Areas">
+            <attribute showAll="true" />
+            <mo name="Plmn">
+              <attribute showAll="true" />
+              <mo name="MbmsServiceArea">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="LocationArea">
+                <attribute showAll="true" />
+                <mo name="RoutingArea">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="ServiceArea">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+            </mo>
+          </mo>
+          <mo name="ExternalGsmCell">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="MeContext">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalGsmPlmn">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalGsmFreq">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalGsmFreqGroup">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ExternalUtranCell">
+            <attribute showAll="true" />
+          </mo>
+          <mo name="ManagementNode">
+            <attribute showAll="true" />
+            <mo name="IRPAgent">
+              <attribute showAll="true" />
+              <mo name="BulkCmIRP">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="NotificationIRP">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AlarmIRP">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+          </mo>
+        </mo>
+      </mo>
+    </mo>
+  </node>
+  <node type="RXI">
+    <mo name="SubNetwork">
+      <attribute showAll="true" />
+      <mo name="SubNetwork">
+        <attribute showAll="true" />
+        <mo name="MeContext">
+          <attribute showAll="true" />
+          <mo name="ManagedElement">
+            <attribute showAll="true" />
+            <mo name="Equipment">
+              <attribute showAll="true" />
+              <mo name="Subrack">
+                <attribute showAll="true" />
+                <mo name="Slot">
+                  <attribute showAll="true" />
+                  <mo name="PlugInUnit">
+                    <attribute showAll="true" />
+                    <mo name="EthernetSwitchModule">
+                      <attribute showAll="true" />
+                      <mo name="EthernetSwitchModulePort">
+                        <attribute showAll="true" />
+                        <mo name="SwitchPortStp">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="Lag">
+                        <attribute showAll="true" />
+                        <mo name="SwitchPortStp">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="SwitchStp">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="ExchangeTerminalIp">
+                      <attribute showAll="true" />
+                      <mo name="InternalEthernetPort">
+                        <attribute showAll="true" />
+                        <mo name="IpInterface">
+                          <attribute showAll="true" />
+                          <mo name="DscpGroup">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="GigaBitEthernet">
+                        <attribute showAll="true" />
+                        <mo name="IpInterface">
+                          <attribute showAll="true" />
+                          <mo name="DscpGroup">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="EthernetSwitch">
+                        <attribute showAll="true" />
+                        <mo name="Lag">
+                          <attribute showAll="true" />
+                          <mo name="SwitchPortStp">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="SwitchStp">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="EthernetSwitchPort">
+                          <attribute showAll="true" />
+                          <mo name="SwitchPortStp">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="ExchangeTerminal">
+                      <attribute showAll="true" />
+                      <mo name="J1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="E3PhysPathTerm">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="Os155SpiTtp">
+                        <attribute showAll="true" />
+                        <mo name="Sts3CspeTtp">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="Vc4Ttp">
+                          <attribute showAll="true" />
+                          <mo name="Vc12Ttp">
+                            <attribute showAll="true" />
+                            <mo name="E1Ttp">
+                              <attribute showAll="true" />
+                              <mo name="Ds0Bundle">
+                                <attribute showAll="true" />
+                              </mo>
+                            </mo>
+                          </mo>
+                        </mo>
+                        <mo name="Sts1SpeTtp">
+                          <attribute showAll="true" />
+                          <mo name="Vt15Ttp">
+                            <attribute showAll="true" />
+                            <mo name="T1Ttp">
+                              <attribute showAll="true" />
+                              <mo name="Ds0Bundle">
+                                <attribute showAll="true" />
+                              </mo>
+                            </mo>
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="T1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="T3PhysPathTerm">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="E1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="TimingUnit">
+                      <attribute showAll="true" />
+                      <mo name="TuSyncRef">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="GpsSyncRef">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="GeneralProcessorUnit">
+                      <attribute showAll="true" />
+                      <mo name="MediumAccessUnit">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="FastEthernet">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+            </mo>
+            <mo name="EthernetSwitchingAdm">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="IpOam">
+              <attribute showAll="true" />
+              <mo name="Ospf">
+                <attribute showAll="true" />
+                <mo name="OspfArea">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="OspfInterface">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Ip">
+                <attribute showAll="true" />
+                <mo name="IpAtmLink">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="IpRoutingTable">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="EthernetLink">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Dhcp">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="IpSystem">
+              <attribute showAll="true" />
+              <mo name="IpAccessHostEt">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Icmp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="TrafficManagement">
+                <attribute showAll="true" />
+                <mo name="TrafficScheduler">
+                  <attribute showAll="true" />
+                  <mo name="TrafficManagementQueue">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+            </mo>
+            <mo name="ManagedElementData">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="TransportNetwork">
+              <attribute showAll="true" />
+              <mo name="Aal2QosCodePointProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmTrafficDescriptor">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UniSaalProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2RoutingCase">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmPort">
+                <attribute showAll="true" />
+                <mo name="VplTp">
+                  <attribute showAll="true" />
+                  <mo name="VpcTp">
+                    <attribute showAll="true" />
+                    <mo name="VclTp">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="Aal5TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Synchronization">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2QosProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Mspg">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmCrossConnection">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal1TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="MspgExtended">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UniSaalTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2PathVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2Sp">
+                <attribute showAll="true" />
+                <mo name="Aal2Ap">
+                  <attribute showAll="true" />
+                  <mo name="Aal2PathDistributionUnit">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="ImaGroup">
+                <attribute showAll="true" />
+                <mo name="ImaLink">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="AtmConfService">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="SwManagement">
+              <attribute showAll="true" />
+              <mo name="ReliableProgramUniter">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="SwAllocation">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="EthernetSwitchFabric">
+              <attribute showAll="true" />
+              <mo name="Vlan">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="SystemFunctions">
+              <attribute showAll="true" />
+              <mo name="Security">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="PmService">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Licensing">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+          </mo>
+        </mo>
+      </mo>
+    </mo>
+  </node>
+  <node type="RBS">
+    <mo name="SubNetwork">
+      <attribute showAll="true" />
+      <mo name="SubNetwork">
+        <attribute showAll="true" />
+        <mo name="MeContext">
+          <attribute showAll="true" />
+          <mo name="ManagedElement">
+            <attribute showAll="true" />
+            <mo name="EquipmentSupportFunction">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="Equipment">
+              <attribute showAll="true" />
+              <mo name="Cabinet">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="ExternalAntenna">
+                <attribute showAll="true" />
+                <mo name="AuxPlugInUnit">
+                  <attribute showAll="true" />
+                  <mo name="McpaDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="PauDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="AscDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RetuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="RetDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="RetDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="DeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RruDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="Subrack">
+                <attribute showAll="true" />
+                <mo name="Slot">
+                  <attribute showAll="true" />
+                  <mo name="PlugInUnit">
+                    <attribute showAll="true" />
+                    <mo name="PiuDevice">
+                      <attribute showAll="true" />
+                      <mo name="ExchangeTerminalIp">
+                        <attribute showAll="true" />
+                        <mo name="InternalEthernetPort">
+                          <attribute showAll="true" />
+                          <mo name="IpInterface">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="GigaBitEthernet">
+                          <attribute showAll="true" />
+                          <mo name="IpInterface">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="EthernetSwitch">
+                          <attribute showAll="true" />
+                          <mo name="Lag">
+                            <attribute showAll="true" />
+                            <mo name="SwitchPortStp">
+                              <attribute showAll="true" />
+                            </mo>
+                          </mo>
+                          <mo name="SwitchStp">
+                            <attribute showAll="true" />
+                          </mo>
+                          <mo name="EthernetSwitchPort">
+                            <attribute showAll="true" />
+                            <mo name="SwitchPortStp">
+                              <attribute showAll="true" />
+                            </mo>
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="DeviceGroup">
+                        <attribute showAll="true" />
+                        <mo name="TpaDeviceSet">
+                          <attribute showAll="true" />
+                          <mo name="TpaDevice">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="TmaDeviceSet">
+                          <attribute showAll="true" />
+                          <mo name="TmaDevice">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="TxDeviceGroup">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="Cbu">
+                      <attribute showAll="true" />
+                      <mo name="ExchangeTerminal">
+                        <attribute showAll="true" />
+                        <mo name="J1PhysPathTerm">
+                          <attribute showAll="true" />
+                          <mo name="Ds0Bundle">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="E3PhysPathTerm">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="Os155SpiTtp">
+                          <attribute showAll="true" />
+                          <mo name="Sts3CspeTtp">
+                            <attribute showAll="true" />
+                          </mo>
+                          <mo name="Vc4Ttp">
+                            <attribute showAll="true" />
+                            <mo name="Vc12Ttp">
+                              <attribute showAll="true" />
+                              <mo name="E1Ttp">
+                                <attribute showAll="true" />
+                                <mo name="Ds0Bundle">
+                                  <attribute showAll="true" />
+                                </mo>
+                              </mo>
+                            </mo>
+                          </mo>
+                          <mo name="Sts1SpeTtp">
+                            <attribute showAll="true" />
+                            <mo name="Vt15Ttp">
+                              <attribute showAll="true" />
+                              <mo name="T1Ttp">
+                                <attribute showAll="true" />
+                                <mo name="Ds0Bundle">
+                                  <attribute showAll="true" />
+                                </mo>
+                              </mo>
+                            </mo>
+                          </mo>
+                        </mo>
+                        <mo name="T1PhysPathTerm">
+                          <attribute showAll="true" />
+                          <mo name="Ds0Bundle">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="T3PhysPathTerm">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="E1PhysPathTerm">
+                          <attribute showAll="true" />
+                          <mo name="Ds0Bundle">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="TimingUnit">
+                        <attribute showAll="true" />
+                        <mo name="TuSyncRef">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="GpsSyncRef">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="GeneralProcessorUnit">
+                        <attribute showAll="true" />
+                        <mo name="MediumAccessUnit">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="FastEthernet">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="ExchangeTerminalIp">
+                      <attribute showAll="true" />
+                      <mo name="InternalEthernetPort">
+                        <attribute showAll="true" />
+                        <mo name="IpInterface">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="GigaBitEthernet">
+                        <attribute showAll="true" />
+                        <mo name="IpInterface">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="EthernetSwitch">
+                        <attribute showAll="true" />
+                        <mo name="Lag">
+                          <attribute showAll="true" />
+                          <mo name="SwitchPortStp">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="SwitchStp">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="EthernetSwitchPort">
+                          <attribute showAll="true" />
+                          <mo name="SwitchPortStp">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="ExchangeTerminal">
+                      <attribute showAll="true" />
+                      <mo name="J1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="E3PhysPathTerm">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="Os155SpiTtp">
+                        <attribute showAll="true" />
+                        <mo name="Sts3CspeTtp">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="Vc4Ttp">
+                          <attribute showAll="true" />
+                          <mo name="Vc12Ttp">
+                            <attribute showAll="true" />
+                            <mo name="E1Ttp">
+                              <attribute showAll="true" />
+                              <mo name="Ds0Bundle">
+                                <attribute showAll="true" />
+                              </mo>
+                            </mo>
+                          </mo>
+                        </mo>
+                        <mo name="Sts1SpeTtp">
+                          <attribute showAll="true" />
+                          <mo name="Vt15Ttp">
+                            <attribute showAll="true" />
+                            <mo name="T1Ttp">
+                              <attribute showAll="true" />
+                              <mo name="Ds0Bundle">
+                                <attribute showAll="true" />
+                              </mo>
+                            </mo>
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="T1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="T3PhysPathTerm">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="E1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="TimingUnit">
+                      <attribute showAll="true" />
+                      <mo name="TuSyncRef">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="GpsSyncRef">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="DeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="TmaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TmaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="GeneralProcessorUnit">
+                      <attribute showAll="true" />
+                      <mo name="MediumAccessUnit">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="FastEthernet">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="TxDeviceGroup">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="AuxPlugInUnit">
+                    <attribute showAll="true" />
+                    <mo name="McpaDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="PauDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="AscDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TmaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TmaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RetuDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="RetDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="RetDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="DeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="TmaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TmaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RruDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RuDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="DownlinkBaseBandPool">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="AuxPlugInUnit">
+                  <attribute showAll="true" />
+                  <mo name="McpaDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="PauDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="AscDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RetuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="RetDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="RetDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="DeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RruDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="PredefRbsScannerGpeh">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AntFeederCable">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="ExternalNode">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="McpaSubrack">
+                <attribute showAll="true" />
+                <mo name="RbsSlot">
+                  <attribute showAll="true" />
+                  <mo name="AuxPlugInUnit">
+                    <attribute showAll="true" />
+                    <mo name="McpaDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="PauDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="AscDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TmaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TmaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RetuDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="RetDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="RetDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="DeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="TmaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TmaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RruDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RuDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="AuxPlugInUnit">
+                  <attribute showAll="true" />
+                  <mo name="McpaDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="PauDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="AscDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RetuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="RetDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="RetDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="DeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RruDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="SectorAntenna">
+                <attribute showAll="true" />
+                <mo name="ExternalTma">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="AntennaBranch">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="AuxPlugInUnit">
+                  <attribute showAll="true" />
+                  <mo name="McpaDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="PauDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="AscDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RetuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="RetDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="RetDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="DeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RruDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="AuxPlugInUnit">
+                <attribute showAll="true" />
+                <mo name="McpaDeviceGroup">
+                  <attribute showAll="true" />
+                  <mo name="TpaDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="TpaDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="PauDeviceGroup">
+                  <attribute showAll="true" />
+                  <mo name="TpaDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="TpaDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="AscDeviceGroup">
+                  <attribute showAll="true" />
+                  <mo name="TmaDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="TmaDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="RetuDeviceGroup">
+                  <attribute showAll="true" />
+                  <mo name="RetDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="RetDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="DeviceGroup">
+                  <attribute showAll="true" />
+                  <mo name="TpaDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="TpaDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="TmaDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="TmaDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="RruDeviceGroup">
+                  <attribute showAll="true" />
+                  <mo name="TpaDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="TpaDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="RuDeviceGroup">
+                  <attribute showAll="true" />
+                  <mo name="TpaDeviceSet">
+                    <attribute showAll="true" />
+                    <mo name="TpaDevice">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="RbsSubrack">
+                <attribute showAll="true" />
+                <mo name="RbsSlot">
+                  <attribute showAll="true" />
+                  <mo name="AuxPlugInUnit">
+                    <attribute showAll="true" />
+                    <mo name="McpaDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="PauDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="AscDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TmaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TmaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RetuDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="RetDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="RetDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="DeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="TmaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TmaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RruDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="RuDeviceGroup">
+                      <attribute showAll="true" />
+                      <mo name="TpaDeviceSet">
+                        <attribute showAll="true" />
+                        <mo name="TpaDevice">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="AuxPlugInUnit">
+                  <attribute showAll="true" />
+                  <mo name="McpaDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="PauDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="AscDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RetuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="RetDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="RetDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="DeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="TmaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TmaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RruDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                  <mo name="RuDeviceGroup">
+                    <attribute showAll="true" />
+                    <mo name="TpaDeviceSet">
+                      <attribute showAll="true" />
+                      <mo name="TpaDevice">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+            </mo>
+            <mo name="EthernetSwitchingAdm">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="IpOam">
+              <attribute showAll="true" />
+              <mo name="Ip">
+                <attribute showAll="true" />
+                <mo name="IpAtmLink">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="IpRoutingTable">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="IpHostLink">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="EthernetLink">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Dhcp">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="IpSystem">
+              <attribute showAll="true" />
+              <mo name="IpAccessHostGpb">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="IpAccessSctp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="IpAccessHostEt">
+                <attribute showAll="true" />
+                <mo name="IpSyncRef">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="TrafficManagement">
+                <attribute showAll="true" />
+                <mo name="TrafficScheduler">
+                  <attribute showAll="true" />
+                  <mo name="TrafficManagementQueue">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+            </mo>
+            <mo name="ManagedElementData">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="TransportNetwork">
+              <attribute showAll="true" />
+              <mo name="Aal2QosCodePointProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmTrafficDescriptor">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UniSaalProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2RoutingCase">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmPort">
+                <attribute showAll="true" />
+                <mo name="VplTp">
+                  <attribute showAll="true" />
+                  <mo name="VpcTp">
+                    <attribute showAll="true" />
+                    <mo name="VclTp">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="Aal5TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Synchronization">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2QosProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Sctp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Mspg">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmCrossConnection">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal1TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="MspgExtended">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UniSaalTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2PathVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2Sp">
+                <attribute showAll="true" />
+                <mo name="Aal2Ap">
+                  <attribute showAll="true" />
+                  <mo name="Aal2PathDistributionUnit">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="ImaGroup">
+                <attribute showAll="true" />
+                <mo name="ImaLink">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Aal0TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="SctpProfile">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="SwManagement">
+              <attribute showAll="true" />
+              <mo name="ReliableProgramUniter">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="SwAllocation">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="NodeBFunction">
+              <attribute showAll="true" />
+              <mo name="Sector">
+                <attribute showAll="true" />
+                <mo name="Carrier">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="RbsSynchronization">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="RbsLocalCell">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Iub">
+                <attribute showAll="true" />
+                <mo name="IubDataStreams">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="NbapDedicated">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="NbapCommon">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+            </mo>
+            <mo name="SystemFunctions">
+              <attribute showAll="true" />
+              <mo name="Security">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="PmService">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Licensing">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+          </mo>
+        </mo>
+      </mo>
+    </mo>
+  </node>
+  <node type="RNC">
+    <mo name="SubNetwork">
+      <attribute showAll="true" />
+      <mo name="SubNetwork">
+        <attribute showAll="true" />
+        <mo name="MeContext">
+          <attribute showAll="true" />
+          <mo name="ManagedElement">
+            <attribute showAll="true" />
+            <mo name="RncFunction">
+              <attribute showAll="true" />
+              <mo name="TnlCchQosClassProfile">
+                <attribute showAll="true" />
+                <mo name="TnlQosClass">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="ResMeasControl">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="WcdmaCarrier">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UePositioning">
+                <attribute showAll="true" />
+                <mo name="RttPositioning">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="AgpsPositioning">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="PositioningServiceClass">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="PowerControl">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Rcs">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="CnOperator">
+                <attribute showAll="true" />
+                <mo name="RnlQosClassProfile">
+                  <attribute showAll="true" />
+                  <mo name="TrafficClassPsInt">
+                    <attribute showAll="true" />
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="TrafficClass">
+                    <attribute showAll="true" />
+                    <mo name="DchMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="TcMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="SpiQosClass">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="ArpSpiMap">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="IuLink">
+                  <attribute showAll="true" />
+                  <mo name="Ranap">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="DchFrameSynch">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="MocnCellProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Paging">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="IubLink">
+                <attribute showAll="true" />
+                <mo name="NodeSynch">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="NbapDedicated">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="NbapCommon">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="IubEdch">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="CchFrameSynch">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="PlmnIdentityGroup">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="EutraNetwork">
+                <attribute showAll="true" />
+                <mo name="EutranFrequency">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="IurLink">
+                <attribute showAll="true" />
+                <mo name="Rnsap">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="WcdmaCarrier">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="ExternalUtranCell">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="UeRrcType">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="RncModule">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UeMeasControl">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Ura">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Handover">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="ChannelSwitching">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Mbms">
+                <attribute showAll="true" />
+                <mo name="MtchFrameSynch">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="RabHandling">
+                <attribute showAll="true" />
+                <mo name="RnlQosClassProfile">
+                  <attribute showAll="true" />
+                  <mo name="TrafficClassPsInt">
+                    <attribute showAll="true" />
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="TrafficClass">
+                    <attribute showAll="true" />
+                    <mo name="DchMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="TcMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="SpiQosClass">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="ArpSpiMap">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="TnlDchQosClassProfile">
+                  <attribute showAll="true" />
+                  <mo name="TrafficClass">
+                    <attribute showAll="true" />
+                    <mo name="DchMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="TcMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="TnlQosClass">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="TnlIuQosClassProfile">
+                  <attribute showAll="true" />
+                  <mo name="TrafficClassPsInt">
+                    <attribute showAll="true" />
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="TrafficClass">
+                    <attribute showAll="true" />
+                    <mo name="DchMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="TcMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="TnlQosClass">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="ArpQosClassProfile">
+                  <attribute showAll="true" />
+                  <mo name="TrafficClassPsInt">
+                    <attribute showAll="true" />
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                  <mo name="TrafficClass">
+                    <attribute showAll="true" />
+                    <mo name="DchMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="TcMap">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="ArpMap">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="TnlHspaQosClassProfile">
+                  <attribute showAll="true" />
+                  <mo name="TnlQosClass">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="SasPositioning">
+                <attribute showAll="true" />
+                <mo name="Pcap">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="IuBcLink">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UeRabType">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="RncConfigLimits">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UeRc">
+                <attribute showAll="true" />
+                <mo name="UeRcTrCh">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="UeRcEdchFlow">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="UeRcPhyChEdch">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="UeRcRab">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="SecurityHandling">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UtranCell">
+                <attribute showAll="true" />
+                <mo name="EutranFreqRelation">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="MbmsCch">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="CoverageRelation">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="GsmRelation">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Hsdsch">
+                  <attribute showAll="true" />
+                  <mo name="Eul">
+                    <attribute showAll="true" />
+                    <mo name="EulFach">
+                      <attribute showAll="true" />
+                    </mo>
+                    <mo name="MultiCarrier">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+                <mo name="Pch">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Rach">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Fach">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="UtranRelation">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Rrc">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UtranNetwork">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="GanC">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Sid">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="Equipment">
+              <attribute showAll="true" />
+              <mo name="SpDevicePool">
+                <attribute showAll="true" />
+                <mo name="PdrDevice">
+                  <attribute showAll="true" />
+                  <mo name="IpEthPacketDataRouter">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="PacketDataRouter">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="Subrack">
+                <attribute showAll="true" />
+                <mo name="GpsReceiver">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Slot">
+                  <attribute showAll="true" />
+                  <mo name="PlugInUnit">
+                    <attribute showAll="true" />
+                    <mo name="EthernetSwitchModule">
+                      <attribute showAll="true" />
+                      <mo name="EthernetSwitchModulePort">
+                        <attribute showAll="true" />
+                        <mo name="SwitchPortStp">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="Lag">
+                        <attribute showAll="true" />
+                        <mo name="SwitchPortStp">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="SwitchStp">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="PiuDevice">
+                      <attribute showAll="true" />
+                      <mo name="ExchangeTerminalIp">
+                        <attribute showAll="true" />
+                        <mo name="InternalEthernetPort">
+                          <attribute showAll="true" />
+                          <mo name="IpInterface">
+                            <attribute showAll="true" />
+                            <mo name="DscpGroup">
+                              <attribute showAll="true" />
+                            </mo>
+                          </mo>
+                        </mo>
+                        <mo name="GigaBitEthernet">
+                          <attribute showAll="true" />
+                          <mo name="IpInterface">
+                            <attribute showAll="true" />
+                            <mo name="DscpGroup">
+                              <attribute showAll="true" />
+                            </mo>
+                          </mo>
+                        </mo>
+                        <mo name="EthernetSwitch">
+                          <attribute showAll="true" />
+                          <mo name="Lag">
+                            <attribute showAll="true" />
+                            <mo name="SwitchPortStp">
+                              <attribute showAll="true" />
+                            </mo>
+                          </mo>
+                          <mo name="SwitchStp">
+                            <attribute showAll="true" />
+                          </mo>
+                          <mo name="EthernetSwitchPort">
+                            <attribute showAll="true" />
+                            <mo name="SwitchPortStp">
+                              <attribute showAll="true" />
+                            </mo>
+                          </mo>
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="ExchangeTerminalIp">
+                      <attribute showAll="true" />
+                      <mo name="InternalEthernetPort">
+                        <attribute showAll="true" />
+                        <mo name="IpInterface">
+                          <attribute showAll="true" />
+                          <mo name="DscpGroup">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="GigaBitEthernet">
+                        <attribute showAll="true" />
+                        <mo name="IpInterface">
+                          <attribute showAll="true" />
+                          <mo name="DscpGroup">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="EthernetSwitch">
+                        <attribute showAll="true" />
+                        <mo name="Lag">
+                          <attribute showAll="true" />
+                          <mo name="SwitchPortStp">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                        <mo name="SwitchStp">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="EthernetSwitchPort">
+                          <attribute showAll="true" />
+                          <mo name="SwitchPortStp">
+                            <attribute showAll="true" />
+                          </mo>
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="ExchangeTerminal">
+                      <attribute showAll="true" />
+                      <mo name="J1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="E3PhysPathTerm">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="Os155SpiTtp">
+                        <attribute showAll="true" />
+                        <mo name="Sts3CspeTtp">
+                          <attribute showAll="true" />
+                        </mo>
+                        <mo name="Vc4Ttp">
+                          <attribute showAll="true" />
+                          <mo name="Vc12Ttp">
+                            <attribute showAll="true" />
+                            <mo name="E1Ttp">
+                              <attribute showAll="true" />
+                              <mo name="Ds0Bundle">
+                                <attribute showAll="true" />
+                              </mo>
+                            </mo>
+                          </mo>
+                        </mo>
+                        <mo name="Sts1SpeTtp">
+                          <attribute showAll="true" />
+                          <mo name="Vt15Ttp">
+                            <attribute showAll="true" />
+                            <mo name="T1Ttp">
+                              <attribute showAll="true" />
+                              <mo name="Ds0Bundle">
+                                <attribute showAll="true" />
+                              </mo>
+                            </mo>
+                          </mo>
+                        </mo>
+                      </mo>
+                      <mo name="T1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                      <mo name="T3PhysPathTerm">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="E1PhysPathTerm">
+                        <attribute showAll="true" />
+                        <mo name="Ds0Bundle">
+                          <attribute showAll="true" />
+                        </mo>
+                      </mo>
+                    </mo>
+                    <mo name="TimingUnit">
+                      <attribute showAll="true" />
+                      <mo name="TuSyncRef">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="GpsSyncRef">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                    <mo name="GeneralProcessorUnit">
+                      <attribute showAll="true" />
+                      <mo name="MediumAccessUnit">
+                        <attribute showAll="true" />
+                      </mo>
+                      <mo name="FastEthernet">
+                        <attribute showAll="true" />
+                      </mo>
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+            </mo>
+            <mo name="EthernetSwitchingAdm">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="IpOam">
+              <attribute showAll="true" />
+              <mo name="Ospf">
+                <attribute showAll="true" />
+                <mo name="OspfArea">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="OspfInterface">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Ip">
+                <attribute showAll="true" />
+                <mo name="IpAtmLink">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="IpRoutingTable">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="EthernetLink">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Dhcp">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="IpSystem">
+              <attribute showAll="true" />
+              <mo name="IpAccessHostGpb">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="IpAccessSctp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="IpAccessHostSpb">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="IpAccessHostEt">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Icmp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="TrafficManagement">
+                <attribute showAll="true" />
+                <mo name="TrafficScheduler">
+                  <attribute showAll="true" />
+                  <mo name="TrafficManagementQueue">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="IpAccessHostPool">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="IpAccessAutoConfig">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="ManagedElementData">
+              <attribute showAll="true" />
+            </mo>
+            <mo name="TransportNetwork">
+              <attribute showAll="true" />
+              <mo name="Aal2RoutingCase">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Synchronization">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Mtp3bSpItu">
+                <attribute showAll="true" />
+                <mo name="Mtp3bAp">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Mtp3bSls">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSlTtc">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlAnsi">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlChina">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlItu">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="Mtp3bSrs">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSr">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="M3uAssociation">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="NniSaalProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Sctp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Mspg">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmCrossConnection">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal1TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="MspgExtended">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="UniSaalTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2PathVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2Sp">
+                <attribute showAll="true" />
+                <mo name="Aal2Ap">
+                  <attribute showAll="true" />
+                  <mo name="Aal2PathDistributionUnit">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="Aal0TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="NniSaalTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="SctpProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal2QosCodePointProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmTrafficDescriptor">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="AtmPort">
+                <attribute showAll="true" />
+                <mo name="VplTp">
+                  <attribute showAll="true" />
+                  <mo name="VpcTp">
+                    <attribute showAll="true" />
+                    <mo name="VclTp">
+                      <attribute showAll="true" />
+                    </mo>
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="UniSaalProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Aal5TpVccTp">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="SccpSp">
+                <attribute showAll="true" />
+                <mo name="SccpScrc">
+                  <attribute showAll="true" />
+                  <mo name="SccpApRemote">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="SccpEntitySet">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="SccpGlobalTitle">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="SccpPolicing">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="SccpAccountingCriteria">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="SccpApLocal">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+              </mo>
+              <mo name="Aal2QosProfile">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Mtp3bSpChina">
+                <attribute showAll="true" />
+                <mo name="Mtp3bAp">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Mtp3bSls">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSlTtc">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlAnsi">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlChina">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlItu">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="Mtp3bSrs">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSr">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="M3uAssociation">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Mtp3bSpTtc">
+                <attribute showAll="true" />
+                <mo name="Mtp3bAp">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Mtp3bSls">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSlTtc">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlAnsi">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlChina">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlItu">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="Mtp3bSrs">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSr">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="M3uAssociation">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="Mtp3bSpAnsi">
+                <attribute showAll="true" />
+                <mo name="Mtp3bAp">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="Mtp3bSls">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSlTtc">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlAnsi">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlChina">
+                    <attribute showAll="true" />
+                  </mo>
+                  <mo name="Mtp3bSlItu">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="Mtp3bSrs">
+                  <attribute showAll="true" />
+                  <mo name="Mtp3bSr">
+                    <attribute showAll="true" />
+                  </mo>
+                </mo>
+                <mo name="M3uAssociation">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="ImaGroup">
+                <attribute showAll="true" />
+                <mo name="ImaLink">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+              <mo name="AtmConfService">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="SwManagement">
+              <attribute showAll="true" />
+              <mo name="ReliableProgramUniter">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="SwAllocation">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="EthernetSwitchFabric">
+              <attribute showAll="true" />
+              <mo name="Vlan">
+                <attribute showAll="true" />
+              </mo>
+            </mo>
+            <mo name="SystemFunctions">
+              <attribute showAll="true" />
+              <mo name="Security">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="PmService">
+                <attribute showAll="true" />
+              </mo>
+              <mo name="Licensing">
+                <attribute showAll="true" />
+                <mo name="RncCapacity">
+                  <attribute showAll="true" />
+                </mo>
+                <mo name="RncFeature">
+                  <attribute showAll="true" />
+                </mo>
+              </mo>
+            </mo>
+          </mo>
+        </mo>
+      </mo>
+    </mo>
+  </node>
+</filter>
+
